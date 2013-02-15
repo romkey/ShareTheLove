@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Sharing the Love
+Plugin Name: Share the Love
 Plugin URI: http://romkey.com/sharing-the-love
-Description: Decorate your site with drifting hearts, via https://github.com/romkey/SharingTheLove - Plugin source available at https://github.com/romkey/SharingTheLove
+Description: Decorate your site with drifting hearts, via http://blog.rnf.me/Falling-in-Love/ - Plugin source available at https://github.com/romkey/ShareTheLove
 Version: 0.1
 Author: John Romkey
 Author URI: http://romkey.com
