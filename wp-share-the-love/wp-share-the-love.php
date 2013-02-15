@@ -2,7 +2,7 @@
 /*
 Plugin Name: Sharing the Love
 Plugin URI: http://romkey.com/sharing-the-love
-Description: Hearts drift down your blog
+Description: Decorate your site with drifting hearts, via https://github.com/romkey/SharingTheLove - Plugin source available at https://github.com/romkey/SharingTheLove
 Version: 0.1
 Author: John Romkey
 Author URI: http://romkey.com
